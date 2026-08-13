@@ -1,4 +1,4 @@
-  import streamlit as st
+import streamlit as st
 from transformers import TrOCRProcessor, VisionEncoderDecoderModel
 from PIL import Image
 import torch
