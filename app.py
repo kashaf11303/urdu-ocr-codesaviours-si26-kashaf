@@ -1,4 +1,4 @@
-!pip install easyocr
+
 
 import streamlit as st
 import easyocr
