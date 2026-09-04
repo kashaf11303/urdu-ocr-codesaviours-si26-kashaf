@@ -359,3 +359,4 @@ This project demonstrates the use of a fine-tuned TrOCR model for Urdu Optical C
 
 The project shows how transformer-based OCR models can be adapted for languages such as Urdu. Although the current results can be improved, especially with a larger and more diverse dataset, this project provides a foundation for building more accurate Urdu OCR systems for real-world applications.
 
+https://www.loom.com/share/77eaa552b82341af89ad3dd3967faeaa
